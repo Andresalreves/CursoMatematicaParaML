@@ -1,0 +1,1 @@
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Andresalreves/CursoMatematicaParaML/blob/main/Introduccion/¿Que_es_el_algebra_lineal_.ipynb)
